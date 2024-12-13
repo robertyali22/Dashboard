@@ -15,7 +15,7 @@ const app = express()
 
 // Configuración de middlewares
 app.use(cors({
-    origin: 'http://localhost:5173'
+    origin: 'https://client-lzeqveqtc-robertyali22s-projects.vercel.app/'
 }))
 app.use(morgan('dev'))
 app.use(express.json())

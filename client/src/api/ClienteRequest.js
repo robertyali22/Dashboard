@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const api = 'http://localhost:3000/api';
+const api = 'https://dashboard-1-6rf3.onrender.com/api';
 
 // Solicitudes relacionadas con clientes
 
